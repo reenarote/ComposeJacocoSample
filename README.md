@@ -1,0 +1,1 @@
+This project README will guide you through the steps required to integrate JaCoCo code coverage into Android applications using Kotlin DSL. By following the instructions provided, you'll learn how to set up JaCoCo for both unit and UI testing, enabling you to measure code coverage effectively in your Android projects.
